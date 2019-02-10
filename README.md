@@ -31,9 +31,9 @@ What happens when cards match
 What happens when cards do not match
 When the game finishes
 
-## Built With
+## Built_With
 
-*HTML
-*CSS
-*JavaScript
-*All application components are usable across modern desktop, tablet, and phone browsers.
+-HTML
+-CSS
+-JavaScript
+-All application components are usable across modern desktop, tablet, and phone browsers.
